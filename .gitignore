@@ -1,1 +1,61 @@
-/build
+# --- Gradle ---
+.gradle/
+build/
+
+# Wrapper (оставляем!)
+!gradle/wrapper/gradle-wrapper.jar
+
+# --- Android Studio / IntelliJ ---
+.idea/
+*.iml
+
+# Но оставляем важное (если нужно шарить конфиги)
+!/.idea/codeStyles/
+!/.idea/inspectionProfiles/
+
+# --- Local config ---
+local.properties
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- Keystore / secrets ---
+*.jks
+*.keystore
+*.pem
+
+# --- Generated files ---
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- APK / AAB ---
+*.apk
+*.aab
+
+# --- Kotlin ---
+*.class
+*.kotlin_module
+
+# --- Navigation Safe Args ---
+/.navigation/
+
+# --- Google Services (иногда) ---
+google-services.json
+
+# --- Firebase Crashlytics ---
+fabric.properties
+
+# --- NDK ---
+obj/
+
+# --- Mac ---
+*.swp
+
+# --- Test outputs ---
+/outputs/
+/reports/
