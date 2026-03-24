@@ -1,0 +1,7 @@
+com.example.ci_test.app-pngs-0 /Users/kran/AndroidStudioProjects/CI_Test/app/build/generated/res/pngs/debug
+com.example.ci_test.app-updated_navigation_xml-1 /Users/kran/AndroidStudioProjects/CI_Test/app/build/generated/updated_navigation_xml/debug
+com.example.ci_test.app-packageDebugResources-2 /Users/kran/AndroidStudioProjects/CI_Test/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.ci_test.app-packageDebugResources-3 /Users/kran/AndroidStudioProjects/CI_Test/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.ci_test.app-debug-4 /Users/kran/AndroidStudioProjects/CI_Test/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.ci_test.app-debug-5 /Users/kran/AndroidStudioProjects/CI_Test/app/src/debug/res
+com.example.ci_test.app-main-6 /Users/kran/AndroidStudioProjects/CI_Test/app/src/main/res
